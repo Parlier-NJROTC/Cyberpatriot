@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="936"
+   height="120"
+   viewBox="0 0 234 30"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="Banner.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="px"
+     labelstyle="default"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="485.78236"
+     inkscape:cy="324.56201"
+     inkscape:window-width="1310"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:clip-to-page="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#c0e0ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect180"
+       width="233.99902"
+       height="30.000425"
+       x="0.0015625004"
+       y="0.00058593787" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0001px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#000000;stroke-width:0.50079;stroke-dasharray:none"
+       x="116.88615"
+       y="10.582639"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:12.0001px;text-align:center;text-anchor:middle;stroke-width:0.50079;stroke-dasharray:none"
+         x="116.88615"
+         y="10.582639"><tspan
+   style="font-size:12.0001px;text-align:center;text-anchor:middle;fill:#ffe015;fill-opacity:1;stroke-width:0.50079"
+   id="tspan3">Par</tspan><tspan
+   style="font-size:12.0001px;text-align:center;text-anchor:middle;fill:#0500a0;fill-opacity:1;stroke-width:0.50079"
+   id="tspan4">lier</tspan> <tspan
+   style="font-size:12.0001px;text-align:center;text-anchor:middle;fill:#02075d;fill-opacity:1;stroke-width:0.50079"
+   id="tspan5">NJROTC</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.0001px;text-align:center;text-anchor:middle;fill:#400fa9;fill-opacity:1;stroke-width:0.50079;stroke-dasharray:none"
+         x="116.88615"
+         y="25.582747"
+         id="tspan2">Cyberpatriot Docs</tspan></text>
+    <g
+       id="g180"
+       transform="matrix(1.9999917,0,0,2.0000284,7.3464091,-0.04941476)">
+      <path
+         id="rect179-4-9"
+         style="fill:#000080;stroke:#1ceeff;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.334383,7.1411339 28.998882,0.012643 -0.718021,0.7051069 -29.147936,-0.00112 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect179-4-9-8"
+         style="fill:#000080;stroke:#1ceeff;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+         d="m 25.180815,7.1411339 28.998881,0.012643 -0.718021,0.7051069 -29.147936,-0.00112 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#400fa9;fill-opacity:1;stroke-width:0.250392;stroke-dasharray:none"
+         d="m 58.027675,8.2844465 0.94465,-1.568893"
+         id="path179" />
+      <circle
+         style="fill:#8482f4;fill-opacity:1;stroke:#6797ff;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         id="path180"
+         cx="54.804688"
+         cy="7.5"
+         r="0.28710938" />
+    </g>
+  </g>
+</svg>
